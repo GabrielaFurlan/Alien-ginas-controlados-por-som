@@ -1,0 +1,60 @@
+body
+{
+    font-family:'Cherry Bomb One', cursive;
+    background-color: darkslategray;
+    color: lightsteelblue;
+
+}
+
+.header_div
+{
+    color: lightskyblue;
+    font-family: 'Borel', cursive;
+
+}
+
+.header_div p
+{
+
+    font-family: 'Borel', cursive;
+    color: seashell;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+
+}
+
+.main_div button
+{
+
+    font-family: 'Shantell Sans', cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    background-color: darkcyan;
+
+}
+
+.copy_right_footer
+{
+
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: aliceblue;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+
+}
+
+#a
+{
+
+    color:cadetblue;
+    font-size: 60px;
+    letter-spacing: 5px;
+}
